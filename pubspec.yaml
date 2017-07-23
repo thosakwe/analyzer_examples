@@ -1,0 +1,5 @@
+name: analyzer_examples
+publish_to: none
+dependencies:
+  analyzer: ^0.30.0
+  tuple: ^1.0.0
